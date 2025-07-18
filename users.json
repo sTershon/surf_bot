@@ -1,0 +1,101 @@
+{
+    "7693086158": {
+        "name": "\u0639\u0627\u0644\u0645",
+        "level": 2,
+        "xp": 151,
+        "coins": 293,
+        "hp": 0,
+        "location": "\ud83c\udfd9 \u0413\u043e\u0440\u043e\u0434",
+        "last_work": 1752845393,
+        "inventory": {
+            "\ud83c\udf4e \u042f\u0431\u043b\u043e\u043a\u043e": 1,
+            "\ud83d\udde1 \u041c\u0435\u0447 \u043d\u043e\u0432\u0438\u0447\u043a\u0430": 1,
+            "\ud83d\udee1 \u041a\u043e\u0436\u0430\u043d\u0430\u044f \u0431\u0440\u043e\u043d\u044f": 1,
+            "\ud83e\uddea \u0417\u0435\u043b\u044c\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f": 1
+        },
+        "bank": {
+            "amount": 2,
+            "timestamp": 0
+        },
+        "clan_id": "7693086158",
+        "mission": {
+            "id": null,
+            "progress": 0
+        },
+        "achievements": [],
+        "stats": {
+            "kills": 0,
+            "work_done": 0,
+            "money_earned": 0
+        },
+        "pending_friends": [],
+        "friends": [
+            "5688213256",
+            "1239785353"
+        ],
+        "duel_request": "1239785353",
+        "last_daily_bonus": 1752845320,
+        "equipment": {
+            "armor": "\ud83d\udee1 \u041a\u043e\u0436\u0430\u043d\u0430\u044f \u0431\u0440\u043e\u043d\u044f",
+            "weapon": "\ud83d\udd25 \u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u043c\u0435\u0447"
+        },
+        "effects": {
+            "armor_boost": {
+                "value": 2,
+                "turns": 3
+            }
+        }
+    },
+    "5688213256": {
+        "name": "k\u030f\u0300\u0367\u030b\u0350\u0365\u0344\u035c\u0321\u0334\u035c\u0318\u034d\u0359\u035a\u032f\u033a\u0317\u032b\u033c\u0316\u032e\u031d\u0354i\u0303\u033e\u033d\u0307",
+        "level": 1,
+        "xp": 10,
+        "coins": 151,
+        "hp": 100,
+        "location": "\ud83c\udfd9 \u0413\u043e\u0440\u043e\u0434",
+        "inventory": {},
+        "bank": {
+            "amount": 0,
+            "clan_id": [],
+            "timestamp": 0
+        },
+        "achievements": [],
+        "stats": {
+            "kills": 0,
+            "work_done": 0,
+            "money_earned": 0
+        },
+        "friends": [
+            "7693086158"
+        ],
+        "pending_friends": [],
+        "last_work": 1752590749,
+        "clan_id": "7693086158"
+    },
+    "1239785353": {
+        "name": "wozkzksksosowlwmnn",
+        "level": 1,
+        "xp": 30,
+        "coins": 1149,
+        "hp": 64,
+        "location": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0430\u044f \u0434\u0435\u0440\u0435\u0432\u043d\u044f",
+        "inventory": {},
+        "bank": {
+            "amount": 0,
+            "clan_id": [],
+            "timestamp": 0
+        },
+        "achievements": [],
+        "stats": {
+            "kills": 0,
+            "work_done": 0,
+            "money_earned": 0
+        },
+        "friends": [
+            "7693086158"
+        ],
+        "pending_friends": [],
+        "clan_id": "7693086158",
+        "last_work": 1752592139
+    }
+}
